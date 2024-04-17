@@ -22,13 +22,20 @@
 - Register For TMDB API and create an app and get access tokken
 - Get Data From TMDB now playing movies list API
 - CustomE hook for now playing movies
-- create movie slice
-- update store with movies data
-- planning for maincontainer and secondary container
-- fetch data for trailer video 
-- update store with trailer video data
-- enmbeded the you tube video and make it autoplay and mute
-- tailwind classes to make container look owesomme
+- Create movie slice
+- Update store with movies data
+- Planning for maincontainer and secondary container
+- Fetch data for trailer video 
+- Update store with trailer video data
+- Enmbeded the you tube video and make it autoplay and mute
+- Tailwind classes to make container look owesomme
+- Build secondary componenet
+- Build Movie List
+- Build Movie Card
+- TMDB  Image CDN URL
+- Made the Browse page amazing with tailwind css
+- usePopularMovie Custome hook
+- GPT search option
 # Features
 -Login & Sign up
     - Sign in / Signup form
